@@ -1,0 +1,12 @@
+# carpeta de las migraciones
+/invebtario/migrations
+
+# misc
+.idea/
+
+*.sqlite3
+*.pyc
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
