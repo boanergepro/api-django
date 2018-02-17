@@ -1,9 +1,4 @@
-# carpeta de las migraciones
-/invebtario/migrations
-
-# misc
 .idea/
-
 *.sqlite3
 *.pyc
 
