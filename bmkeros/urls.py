@@ -17,6 +17,6 @@ from django.conf.urls import include, url
 from django.contrib import admin
 
 urlpatterns = [
-    url(r'^inventario/', include('inventario.urls')),
+    url(r'^api/inventario/', include('inventario.urls')),
     url(r'^admin/', admin.site.urls),
 ]
